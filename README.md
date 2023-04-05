@@ -23,11 +23,11 @@ Display the grayscale image.
 
 ## Program:
 
-# Developed By:HARSHAVARDHAN
-# Register Number:212222240114
+### Developed By:HARSHAVARDHAN
+### Register Number:212222240114
 
 
-# Write your code to find the histogram of gray scale image and color image channels.
+### Write your code to find the histogram of gray scale image and color image channels.
 ```python
 import cv2
 import matplotlib.pyplot as plt
@@ -41,7 +41,7 @@ plt.show()
 
 
 ```
-# Display the histogram of gray scale image and any one channel histogram from color image
+### Display the histogram of gray scale image and any one channel histogram from color image
 ```python
  import cv2
 import matplotlib.pyplot as plt
@@ -67,7 +67,7 @@ plt.show()
 
 
 ```
-# Write the code to perform histogram equalization of the image. 
+### Write the code to perform histogram equalization of the image. 
 ```python
 
 
